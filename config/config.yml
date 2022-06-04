@@ -1,6 +1,6 @@
 mqtt:
   host: localhost #10.54.34.89
-  port: 1883
+  port: 8883
   qos: 2
   keep_alive: 60
 client_lock:
